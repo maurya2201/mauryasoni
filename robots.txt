@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mauryasoni.vercel.app/sitemap.xml
+Sitemap: https://mauryasoni.vercel.app/mysites.xml
 Host: https://mauryasoni.vercel.app/
