@@ -44,16 +44,6 @@
   flex-wrap: wrap;
   border: 2px solid rgb(0, 0, 0, 0.2);
 }
-.aboutus {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  border: 2px solid rgb(0, 0, 0, 0.2);
-  width: 500px;
-  border-radius: 20px;
-}
 #skills {
   display: flex;
   justify-content: center;
